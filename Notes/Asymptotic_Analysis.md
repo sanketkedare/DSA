@@ -36,7 +36,7 @@ function sum(numbers) {
 
 **Big O notation provides a standardized way to compare the efficiency of different algorithms. It helps in making informed decisions when choosing the most appropriate algorithm for a given problem based on its scalability.**
 
-`[Representation of Big-O (O)](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09923922-2afe-44ae-a5b9-b670155de722%2Fs_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio17_(1).png?table=block&id=09f3d842-238d-4fa6-95c1-7bcd79fec530&cache=v2)` 
+[Representation of Big-O (O)](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09923922-2afe-44ae-a5b9-b670155de722%2Fs_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio17_(1).png?table=block&id=09f3d842-238d-4fa6-95c1-7bcd79fec530&cache=v2)` 
 
 
 
