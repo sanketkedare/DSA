@@ -298,58 +298,58 @@ function findMaxElement(arr) {
 
 **Data structures are a mechanism for organizing and storing data in a specific relationship for improved storage and organization.**
 
-        - Data structures can be classified into two categories: primitive and non-primitive. Primitive data structures include number, string, boolean, null, undefined, and symbol. Non-primitive data structures include arrays, maps, linked list, stack , treesetc.
+- Data structures can be classified into two categories: primitive and non-primitive. Primitive data structures include number, string, boolean, null, undefined, and symbol. Non-primitive data structures include arrays, maps, linked list, stack , treesetc.
 
-        - Linear data structures arrange data sequentially with one predecessor and successor. In contrast, non-linear data structures arrange data in a non-linear sequence with multiple predecessors and successors.
+- Linear data structures arrange data sequentially with one predecessor and successor. In contrast, non-linear data structures arrange data in a non-linear sequence with multiple predecessors and successors.
 
-        - Static data structures have a fixed size, and their memory is allocated at compile time. In contrast, dynamic data structures can grow or shrink dynamically at runtime, and their memory is allocated at runtime.
+- Static data structures have a fixed size, and their memory is allocated at compile time. In contrast, dynamic data structures can grow or shrink dynamically at runtime, and their memory is allocated at runtime.
 
-        - Understanding data structures is important for designing and implementing efficient algorithms, especially when dealing with large amounts of data.
+- Understanding data structures is important for designing and implementing efficient algorithms, especially when dealing with large amounts of data.
 
-        - An algorithm is a set of instructions or logical steps written in a specific order to achieve a predetermined task. It must have inputs, at least one output, definiteness, finiteness, and correctness.
+- An algorithm is a set of instructions or logical steps written in a specific order to achieve a predetermined task. It must have inputs, at least one output, definiteness, finiteness, and correctness.
 
-        - Algorithmic analysis helps determine the efficiency of an algorithm in terms of space and time complexity. Space complexity is the amount of memory required to run an algorithm, while time complexity is the time the algorithm takes to execute each set of instructions.
+- Algorithmic analysis helps determine the efficiency of an algorithm in terms of space and time complexity. Space complexity is the amount of memory required to run an algorithm, while time complexity is the time the algorithm takes to execute each set of instructions.
 
-        - The performance of an algorithm is closely linked to its data structures and operations, and it's important to choose the most efficient algorithm for a given task to save time and computational resources.
+- The performance of an algorithm is closely linked to its data structures and operations, and it's important to choose the most efficient algorithm for a given task to save time and computational resources.
 
-        - Asymptotic analysis is a technique to compare the efficiency of algorithms using asymptotic notation. It compares time and space complexity using three notations: O, Ω, and Θ.
+- Asymptotic analysis is a technique to compare the efficiency of algorithms using asymptotic notation. It compares time and space complexity using three notations: O, Ω, and Θ.
 
-        - Big-O(O) provides an upper bound for worst-case runtime, Big-Omega(Ω) provides a lower bound for best-case runtime, and Big-Theta(Θ) represents both upper and lower bounds on the runtime growth rate.
+- Big-O(O) provides an upper bound for worst-case runtime, Big-Omega(Ω) provides a lower bound for best-case runtime, and Big-Theta(Θ) represents both upper and lower bounds on the runtime growth rate.
 
-        - Algorithm efficiency analysis includes best, average, and worst-case scenarios to choose the most efficient algorithm for a given problem. The best case is the shortest, the worst case is the longest, and the average is the meantime for all possible inputs.
+- Algorithm efficiency analysis includes best, average, and worst-case scenarios to choose the most efficient algorithm for a given problem. The best case is the shortest, the worst case is the longest, and the average is the meantime for all possible inputs.
 
 
 
 ### Shortcomings & Challenges
 
-        - Choosing the right data structure for a problem can be challenging, especially when similar options, such as stacks and queues, have different behaviors in adding and removing elements.
+- Choosing the right data structure for a problem can be challenging, especially when similar options, such as stacks and queues, have different behaviors in adding and removing elements.
 
-        - Learning about algorithms and their complexity can be difficult for beginners due to technical requirements and an overwhelming number of variations available.
+- Learning about algorithms and their complexity can be difficult for beginners due to technical requirements and an overwhelming number of variations available.
 
-        - Identifying the best and worst algorithm scenarios is easy, but comparing their efficiency based on varying growth rates and complexity is tricky.
+- Identifying the best and worst algorithm scenarios is easy, but comparing their efficiency based on varying growth rates and complexity is tricky.
 
 
 
 ### Best practices to follow
 
-        - Experimenting with various data structures through coding exercises and real-world applications is a best practice for mastering them and improving skills and confidence in selecting the right structure for any problem.
+- Experimenting with various data structures through coding exercises and real-world applications is a best practice for mastering them and improving skills and confidence in selecting the right structure for any problem.
 
-        - Develop a good understanding of algorithms and their analysis; start with the fundamentals, focus on comprehending the underlying principles, and practice coding to reinforce your understanding.
+- Develop a good understanding of algorithms and their analysis; start with the fundamentals, focus on comprehending the underlying principles, and practice coding to reinforce your understanding.
 
-        - Analyze different types of algorithms, compare and contrast their performance, and use visualization tools like flowcharts and diagrams.
+- Analyze different types of algorithms, compare and contrast their performance, and use visualization tools like flowcharts and diagrams.
 
-        - To determine the most optimized way to solve a problem is to start by understanding the problem requirements and constraints, analyzing the possible approaches, and comparing their time and space complexities.
+- To determine the most optimized way to solve a problem is to start by understanding the problem requirements and constraints, analyzing the possible approaches, and comparing their time and space complexities.
 
 
  
 ### Enhance your knowledge
 
 
-        - Supercharge your knowledge by exploring the resources provided! 📚
+- Supercharge your knowledge by exploring the resources provided! 📚
 
-        - Space and Time Complexity in Computer Algorithms: https://medium.com/@akashsdas_dev/space-and-time-complexity-ebd9df8e0202#:~:text=Space complexity refers to the,its running and other factors).
+- Space and Time Complexity in Computer Algorithms: https://medium.com/@akashsdas_dev/space-and-time-complexity-ebd9df8e0202#:~:text=Space complexity refers to the,its running and other factors).
 
-        - A beginner's guide to Big O Notation: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+- A beginner's guide to Big O Notation: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 
-        - An Ode to Asymptotic Notations: https://medium.com/smelly-code/an-ode-to-asymptotic-notations-64753506bbf1
+- An Ode to Asymptotic Notations: https://medium.com/smelly-code/an-ode-to-asymptotic-notations-64753506bbf1
  
