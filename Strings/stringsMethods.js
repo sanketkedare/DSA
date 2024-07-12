@@ -87,6 +87,14 @@
 
 // ----------------------------------------------------------------
 
+// join()
+
+const arr = ['H', 'e', 'l', 'l','o', ',', ' ', 'w','o', 'r', 'l', 'd','!'];
+const str = arr.join('');
+console.log(str);  // "Hello, world!"
+
+// ----------------------------------------------------------------
+ 
 // substring() - Simmiler to substr() but can't except -ne value
 
 // const str = "Hello, world!";
