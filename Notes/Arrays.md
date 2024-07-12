@@ -2,7 +2,7 @@
 
 ## Introduction to Array
 
-     **In JavaScript, an array is a data structure that can hold multiple values of different data types in a single variable. Arrays are zero-indexed, meaning the first element is accessed with index 0. You can create and manipulate arrays using various methods and properties.**
+**In JavaScript, an array is a data structure that can hold multiple values of different data types in a single variable. Arrays are zero-indexed, meaning the first element is accessed with index 0. You can create and manipulate arrays using various methods and properties.**
 
 
 ### What is an Array?
